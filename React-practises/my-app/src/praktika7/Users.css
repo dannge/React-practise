@@ -1,0 +1,7 @@
+.cardUser {
+	border-top: 1px solid black;
+	border-radius: 10px;
+	background-color: rgb(197, 161, 118);
+	padding-top: 30px;
+	margin: 10px;
+}

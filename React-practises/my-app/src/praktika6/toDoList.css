@@ -1,0 +1,26 @@
+.appTodo {
+	padding: 30px;
+	background-color: rgb(141, 109, 45);
+	margin: auto;
+}
+
+.todo {
+	align-items: center;
+	display: flex;
+	font-size: 18px;
+	justify-content: space-between;
+}
+.bg-green {
+	color: rgb(121, 167, 121);
+}
+
+.bg-red {
+	color: rgb(198, 57, 57);
+}
+.cardTodo {
+	height: 70px;
+}
+
+.addTodo {
+	margin-top: 10px;
+}

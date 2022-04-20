@@ -1,0 +1,8 @@
+.card-person {
+	border: 1px solid black;
+	border-radius: 10px;
+	padding-top: 40px;
+	margin: 10px;
+	width: 30%;
+	background-color: rgb(98, 158, 187);
+}

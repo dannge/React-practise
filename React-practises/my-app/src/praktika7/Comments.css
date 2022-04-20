@@ -1,0 +1,7 @@
+.cardComment {
+	border-top: 1px solid black;
+	border-radius: 10px;
+	background-color: rgb(182, 176, 169);
+	padding-top: 30px;
+	margin: 10px;
+}

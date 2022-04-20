@@ -1,0 +1,17 @@
+.Card2 {
+	width: 600px;
+	margin: auto;
+	margin-top: 50px;
+}
+
+.Card-title {
+	padding-top: 30px;
+	color: rgb(90, 75, 75);
+	text-align: center;
+	font-size: xx-large;
+}
+
+.btn {
+	margin-left: 40px;
+	margin-bottom: 60px;
+}

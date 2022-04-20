@@ -1,0 +1,13 @@
+.error {
+	background-image: url(./images.jpg);
+}
+.img-error {
+	width: 600px;
+	margin-left: 30%;
+	margin-right: 50%;
+	margin-top: 5%;
+}
+.error-text {
+	color: blue;
+	font-weight: 700;
+}

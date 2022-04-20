@@ -1,0 +1,11 @@
+.Header-page-title {
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana,
+		sans-serif;
+	color: rgb(46, 22, 22);
+}
+
+.Header-page-image {
+	width: 100%;
+	height: 300px;
+	object-fit: cover;
+}

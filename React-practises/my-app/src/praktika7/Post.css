@@ -1,0 +1,7 @@
+.cardPost {
+	border-top: 1px solid black;
+	border-radius: 10px;
+	background-color: rgb(158, 116, 63);
+	padding-top: 30px;
+	margin: 10px;
+}
